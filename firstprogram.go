@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainx() {
 
 	fmt.Println("First Go Program")
 
