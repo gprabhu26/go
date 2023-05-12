@@ -3,7 +3,7 @@ package main
 // fmt package provides the function to print anything
 import "fmt"
 
-func main() {
+func inputfromusermain() {
 
 	// declaring the variable using the var keyword
 	var numberFromUser int
